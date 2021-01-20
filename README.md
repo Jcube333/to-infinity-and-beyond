@@ -1,6 +1,2 @@
-#include<iostream.h>
-int main()
-{
-cout<<"Hello world!";
-return 0;
-}
+Hello to the programming world!
+
